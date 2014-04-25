@@ -1,0 +1,99 @@
+{
+		"name": "Campañas",
+		"children": [ { "name":"Protección civil",
+			"children": [],
+			"size": 0
+			},{ "name":"Emergencias y desastres naturales",
+			"children": [],
+			"size": 0
+			},{ "name":"Avisos importantes",
+			"children": [],
+			"size": 0
+			},{ "name":"Vialidad y transporte",
+			"children": [],
+			"size": 0
+			},{ "name":"Seguridad pública y justicia",
+			"children": [],
+			"size": 0
+			},{ "name":"Informes de gobierno",
+			"children": [],
+			"size": 0
+			},{ "name":"Desarrollo social",
+			"children": [],
+			"size": 0
+			},{ "name":"Educación",
+			"children": [],
+			"size": 0
+			},{ "name":"Deportes",
+			"children": [],
+			"size": 0
+			},{ "name":"Turismo",
+			"children": [],
+			"size": 0
+			},{ "name":"Economía y negocios",
+			"children": [],
+			"size": 0
+			},{ "name":"Ciencia y tecnología",
+			"children": [],
+			"size": 0
+			},{ "name":"Obras públicas",
+			"children": [],
+			"size": 0
+			},{ "name":"Civismo y legalidad",
+			"children": [],
+			"size": 0
+			},{ "name":"Desarrollo social y humano",
+			"children": [],
+			"size": 0
+			},{ "name":"Avisos y concocatorias",
+			"children": [],
+			"size": 0
+			},{ "name":"Tramites y servicios",
+			"children": [],
+			"size": 0
+			},{ "name":"Derechos humanos",
+			"children": [],
+			"size": 0
+			},{ "name":"Derechos de los niños",
+			"children": [],
+			"size": 0
+			},{ "name":"Equidad de género",
+			"children": [],
+			"size": 0
+			},{ "name":"Pueblos indígenas",
+			"children": [],
+			"size": 0
+			},{ "name":"Ecología y medio ambiente",
+			"children": [],
+			"size": 0
+			},{ "name":"Transparencia y rendición de cuentas",
+			"children": [],
+			"size": 0
+			},{ "name":"Participación ciudadana",
+			"children": [],
+			"size": 0
+			},{ "name":"Felicitaciones, esquelas y condolencias",
+			"children": [],
+			"size": 0
+			},{ "name":"Otro",
+			"children": [],
+			"size": 0
+			},{ "name":"Infraestructura, Desarrollo Económico y Turismo ",
+			"children": [],
+			"size": 0
+			},{ "name":"Finanzas",
+			"children": [],
+			"size": 0
+			},{ "name":"Seguridad y Justicia ",
+			"children": [],
+			"size": 0
+			},{ "name":"Desarrollo Rural",
+			"children": [],
+			"size": 0
+			},{ "name":"Salud e higiene ",
+			"children": [],
+			"size": 0
+			},{ "name":"Cultura ",
+			"children": [],
+			"size": 0
+			}] }
