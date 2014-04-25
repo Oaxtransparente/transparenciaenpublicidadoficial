@@ -36,7 +36,7 @@
         <img src="<?php echo base_url()?>/imagenes/logo_fundar.png"/> 
         <img style="margin-left:10px; margin-right: 10px; " src="<?php echo base_url()?>/imagenes/logos_goboax.png"/>
         
-        <p style="font-size:20px; font-weight:bold; margin-top:15px;" >Visita el portal nacional en <a style="text-decoration:underline; color:#8D8D8D; font-size:16px; " target="_blank" href="http://www.oaxtransparente.oaxaca.gob.mx/publicidadoficialnacional/" >www.tpo.mx</a> </p>
+        <p style="font-size:16px; font-weight:bold; margin-top:15px;" >Visita el portal nacional en <a style="text-decoration:underline; color:#8D8D8D; font-size:16px; " target="_blank" href="http://www.oaxtransparente.oaxaca.gob.mx/publicidadoficialnacional/" >www.tpo.mx</a> </p>
         
         <hr style="margin-top:20px;">
         
